@@ -22,7 +22,7 @@ Hey there ヾ(＾∇＾) I'm Kairi!<br><br>Welcome to my little corner of GitHub
 ![](https://nirzak-streak-stats.vercel.app/?user=nighterflex&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nighterflex&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###  ִֶָ࣪☾. Top Contributed Repo
+###  ִֶָ࣪☾. Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=nighterflex&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
