@@ -1,5 +1,5 @@
 # ⋆｡°✩ About Me:
-Hey there ヾ(＾∇＾) I'm Kairi!<br><br>Welcome to my little corner of GitHub where I build things, break things, and (sometimes) fix them too! :3<br><br>
+Hey there ヾ(＾∇＾) I'm Imama! AKA kairi<br><br>Welcome to my little corner of GitHub where I build things, break things, and (sometimes) fix them too! :3<br><br>
 
 ## ୨୧ 〰️ What I do  (੭ ˊ^ˋ)੭:
 <br>Currently a CompSci undergrad just out here experimenting with all sorts of tech. I love blending creativity with logic -w- whether it’s through coding up an app, building a game, or trying to make sense of databases without losing my mind ヾ( ˃ᴗ˂ )◞ • *✰  <br><br>
